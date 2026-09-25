@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-arcgis-southbend",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "City of South Bend GIS — South Bend, Indiana open geospatial data (ArcGIS).",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-6c7789177da70afc0cb2f1e374eb33ba0b924c4de85a926d80a0e02ddc304479",
-    "sourceCommit": "60f04b68c347e970c6be94a53439d1364061fc06"
+    "sourceHash": "v1-96b33b03ad507ba60502fa3a709ceda1fac124af069978e914b5585390dfcdee",
+    "sourceCommit": "454041882179fae560c06e770b6b7a2f33970015"
   }
 }
